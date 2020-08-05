@@ -133,7 +133,7 @@ Function Emulation
 
 	$params = @{
 	 CertStoreLocation = $store
-	 Subject = "CN=TestEmulationManticore23"
+	 Subject = "CN=TestEmulationManticore23222"
 	 KeyLength = 2048
 	 KeyAlgorithm = "RSA" 
 	 KeyUsage = "DataEncipherment"
